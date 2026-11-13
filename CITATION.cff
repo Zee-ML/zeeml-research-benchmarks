@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "ZeeML Syntactic Burstiness, Lexical Entropy & Extractive Compression Benchmark"
+message: "If you use this dataset, please cite it using the metadata below."
+type: dataset
+authors:
+  - name: "ZeeML Research & Engineering"
+    website: "https://zeeml.com"
+url: "https://zeeml.com/ai-detector"
+repository-code: "https://github.com/Zee-ML"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-13"
+keywords:
+  - syntactic burstiness
+  - lexical entropy
+  - ai text detection
+  - text humanizer
+  - extractive summarization
